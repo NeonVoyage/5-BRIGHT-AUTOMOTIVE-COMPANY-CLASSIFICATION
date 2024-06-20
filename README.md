@@ -23,19 +23,11 @@ Sample Data
 The first and last five rows of the dataset are displayed below to provide a quick glimpse of the data.
 
 First 5 Rows
-Age	Gender	Profession	Marital_status	Education	No_of_Dependents	Personal_loan	House_loan	Partner_working	Salary	Partner_salary	Total_salary	Price	Make
-53	Male	Business	Married	Post Graduate	4	No	No	Yes	99300	70700	170000	61000	SUV
-53	Female	Salaried	Married	Post Graduate	4	Yes	No	Yes	95500	70300	165800	61000	SUV
-53	Female	Salaried	Married	Post Graduate	3	No	No	Yes	97300	60700	158000	57000	SUV
-53	Female	Salaried	Married	Graduate	?	Yes	No	Yes	72500	70300	142800	61000	?
-53	Male	NaN	Married	Post Graduate	3	No	No	Yes	79700	60200	139900	57000	SUV
+![image](https://github.com/NeonVoyage/5-BRIGHT-AUTOMOTIVE-COMPANY-CLASSIFICATION/assets/165452261/798739ab-ee16-4ac0-9f0e-7fa6590926d4)
+
 Last 5 Rows
-Age	Gender	Profession	Marital_status	Education	No_of_Dependents	Personal_loan	House_loan	Partner_working	Salary	Partner_salary	Total_salary	Price	Make
-35	Male	Salaried	Divorced	Graduate	0	No	No	Yes	89500	60700	150200	61000	SUV
-38	Female	Salaried	Divorced	Graduate	1	No	No	Yes	90500	70300	160800	57000	SUV
-41	Male	Business	Married	Post Graduate	2	Yes	Yes	Yes	80000	60700	140700	57000	SUV
-44	Male	Business	Married	Post Graduate	2	No	No	No	85000	NaN	85000	61000	SUV
-51	Male	Salaried	Divorced	Graduate	0	No	No	Yes	72000	60700	132700	61000	SUV
+![image](https://github.com/NeonVoyage/5-BRIGHT-AUTOMOTIVE-COMPANY-CLASSIFICATION/assets/165452261/33ae3208-32b8-4d8d-b60f-ea23e7300c82)
+
 3. Data Analysis
 3.1 Demographic Distribution
 Age Distribution
@@ -69,16 +61,24 @@ The analysis of the dataset for 5 Bright Automotive Company provides valuable in
 How to Run the Analysis
 Clone the repository:
 
-{git clone <repository-url>
+git clone <repository-url>
 cd <repository-directory>
-Install the required libraries:}
+Install the required libraries:
 
-{
+
 pip install pandas numpy matplotlib seaborn
-Run the analysis script:}
+Run the analysis script:
 
-{
+
 python analysis.py
-The analysis script will read the dataset, perform the analysis, and output the results.}
+The analysis script will read the dataset, perform the analysis, and output the results.
 
 This report offers a comprehensive analysis of the dataset provided, highlighting key insights and actionable recommendations to help 5 Bright Automotive Company optimize its business strategies.
+Install the required libraries:
+
+
+pip install pandas numpy matplotlib seaborn
+Run the analysis script:
+
+
+python analysis.py
