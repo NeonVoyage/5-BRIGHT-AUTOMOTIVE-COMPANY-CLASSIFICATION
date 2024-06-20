@@ -60,25 +60,24 @@ Product Range: Ensure a variety of products that cater to both high-income and m
 The analysis of the dataset for 5 Bright Automotive Company provides valuable insights into the demographics and financial status of its customers. By leveraging this data, the company can tailor its marketing strategies, financial products, and product offerings to better meet the needs and preferences of its customer base, ultimately driving sales and customer satisfaction.
 How to Run the Analysis
 Clone the repository:
-
-git clone <repository-url>
-cd <repository-directory>
+bash
+git clone https://github.com/NeonVoyage/5-BRIGHT-AUTOMOTIVE-COMPANY-CLASSIFICATION.git cd iris-flower
 Install the required libraries:
 
-
+bash
 pip install pandas numpy matplotlib seaborn
 Run the analysis script:
 
-
+bash
 python analysis.py
 The analysis script will read the dataset, perform the analysis, and output the results.
 
 This report offers a comprehensive analysis of the dataset provided, highlighting key insights and actionable recommendations to help 5 Bright Automotive Company optimize its business strategies.
 Install the required libraries:
 
-
+bash
 pip install pandas numpy matplotlib seaborn
 Run the analysis script:
 
-
+bash
 python analysis.py
