@@ -61,7 +61,7 @@ The analysis of the dataset for 5 Bright Automotive Company provides valuable in
 How to Run the Analysis
 Clone the repository:
 bash
-git clone https://github.com/NeonVoyage/5-BRIGHT-AUTOMOTIVE-COMPANY-CLASSIFICATION.git cd iris-flower
+git clone https://github.com/NeonVoyage/5-BRIGHT-AUTOMOTIVE-COMPANY-CLASSIFICATION.git cd 5-BRIGHT-AUTOMOTIVE-COMPANY-CLASSIFICATION
 Install the required libraries:
 
 bash
